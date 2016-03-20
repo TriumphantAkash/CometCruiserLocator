@@ -1,5 +1,6 @@
 <resources>
     <string name="app_name">BusKarma</string>
-    <string name="title_activity_maps">Map</string>
+    <string name="title_activity_maps">CometCruiserLocator</string>
     <string name="google_maps_key">AIzaSyBrJu6LxT4msLA949VxgJJ08th4fAOL3b4</string>
+    <string name="title_activity_settings">Settings</string>
 </resources>
